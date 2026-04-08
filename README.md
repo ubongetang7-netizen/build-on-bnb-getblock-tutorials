@@ -1,5 +1,5 @@
 Mastering the 0.45s Era: A Developer’s Guide to Building on BNB Chain with GetBlock
-The landscape of the BNB Smart Chain (BSC) shifted forever on January 14, 2026. With the activation of the Fermi Hard Fork, BSC transitioned from a high-speed L1 to a sub-second settlement powerhouse. For developers, the challenge isn’t just "building an app" anymore—it’s about optimizing for a network that produces blocks faster than a human blink.
+The landscape of the BNB Smart Chain (BSC) shifted forever on January 14, 2026. With the activation of the Fermi Hard Fork, BSC transitioned from a high-speed L1 to a sub-second settlement powerhouse. For developers, the challenge isn’t just "building an app" anymore, it’s about optimizing for a network that produces blocks faster than a human blink.
 
 In this guide, we’ll break down the 2026 tech stack and show you how to deploy your first dApp using GetBlock’s Reth-optimized RPCs.
 
@@ -23,6 +23,8 @@ Navigate to your Dashboard and select BNB Smart Chain (BSC).
 Choose Mainnet and select the JSON-RPC protocol.
 
 Copy your unique API Key (e.g., https://go.getblock.io/<ACCESS-TOKEN>/).
+
+
 4. Scaling for 20,000 TPS: Advanced Configuration
 If you are building a DEX or an AI-agent middleware, standard shared nodes might face rate limits during high-traffic "Fermi" bursts.
 
